@@ -1,18 +1,18 @@
 ﻿# Site settings
-title: CodingWithAlice
-SEOTitle: CodingWithAlice Blog
-header-img: img/home.jpg
+title: CodingWithAlan
+SEOTitle: CodingWithAlan Blog
+header-img: img/home.jpeg
 email: hao_ling@foxmail.com
 description: ""
-keyword: "CodingWithAlice"
-url: "https://CodingWithAlice.github.io"          # your host, for absolute URL
+keyword: "CodingWithAlan"
+url: "https://CodingWithAlan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/CodingWithAlice/CodingWithAlice.github.io.git" # you code repository
+github_repo: "https://github.com/CodingWithAlan/CodingWithAlan.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "CodingWithAlice"
-sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "CodingWithAlan"
+sidebar-avatar: /img/head.jfif      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -20,7 +20,7 @@ sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both 
 RSS: false
 #weibo_username:     phonetech
 #zhihu_username:     coding-zen
-github_username:    CodingWithAlice
+github_username:    CodingWithAlan
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   a8e6daf1aa23
 #juejin_username:   5922402b0ce46300695c3c6a
@@ -63,12 +63,12 @@ kramdown:
 # Gitalk
 gitalk:
   enable: false    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
+#   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+#   repo: qiubaiying.github.io    #仓库名称
+#   owner: qiubaiying    #github用户名
+#   admin: qiubaiying
+#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
